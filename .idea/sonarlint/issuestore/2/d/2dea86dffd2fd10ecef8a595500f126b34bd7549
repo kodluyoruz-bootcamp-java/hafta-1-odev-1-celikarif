@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý»Îõ
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÚåúúÿÿÿÿ8ÃÑÞ Û.
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8ÃÑÞ Û.
+r	java:S116"VRename this field "beygir_gucu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ®â»8ÃÑÞ Û.
